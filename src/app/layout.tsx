@@ -9,7 +9,7 @@ export default function RootLayout({
   return (
     <html lang="es">
       <head>
-        <meta name="description" content="Cristhian Portfolio" />
+        <meta name="description" content="Cristhian David Tapiero Padilla, web developer, junior developer, front-end developer and more..." />
         <link
           rel="icon"
           href="/icon?<generated>"
